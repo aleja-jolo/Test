@@ -1,0 +1,3 @@
+Hello there..
+Text doc to get me started with git
+
